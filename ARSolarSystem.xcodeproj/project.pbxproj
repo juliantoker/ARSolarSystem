@@ -13,6 +13,7 @@
 		C383FE3F218AB19200914E5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C383FE3D218AB19200914E5D /* Main.storyboard */; };
 		C383FE41218AB19400914E5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C383FE40218AB19400914E5D /* Assets.xcassets */; };
 		C383FE44218AB19400914E5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C383FE42218AB19400914E5D /* LaunchScreen.storyboard */; };
+		C383FE4C218ABD1300914E5D /* SolarSystem.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = C383FE4B218ABD1300914E5D /* SolarSystem.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C383FE40218AB19400914E5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C383FE43218AB19400914E5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C383FE45218AB19400914E5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C383FE4B218ABD1300914E5D /* SolarSystem.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = SolarSystem.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		C383FE36218AB19200914E5D /* ARSolarSystem */ = {
 			isa = PBXGroup;
 			children = (
+				C383FE4B218ABD1300914E5D /* SolarSystem.scnassets */,
 				C383FE37218AB19200914E5D /* AppDelegate.swift */,
 				C383FE39218AB19200914E5D /* art.scnassets */,
 				C383FE3B218AB19200914E5D /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C383FE3A218AB19200914E5D /* art.scnassets in Resources */,
+				C383FE4C218ABD1300914E5D /* SolarSystem.scnassets in Resources */,
 				C383FE44218AB19400914E5D /* LaunchScreen.storyboard in Resources */,
 				C383FE41218AB19400914E5D /* Assets.xcassets in Resources */,
 				C383FE3F218AB19200914E5D /* Main.storyboard in Resources */,
